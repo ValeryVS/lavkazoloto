@@ -1,0 +1,20 @@
+{
+  "name": "template",
+  "version": "0.0.1",
+  "authors": [
+    "ValeryVS <valery.vs.va@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap-sass-twbs": "latest",
+    "lightbox2": "latest"
+  }
+}
